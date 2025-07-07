@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goutam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=450&lines=CS+Student+%7C+MERN+Stack+Dev+%7C+AI+Explorer;Building+Projects+with+Purpose...;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=CS+Student+%7C+MERN+Stack+Dev+%7C+AI+Explorer;Building+Projects+with+Purpose...;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,20 +27,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-#### 🔧 [Task Manager](https://github.com/goutam-dev/Task-manager)
-> Full-stack productivity app with JWT auth, admin panel, and task tracking  
-> [🌐 Live Demo](https://task-manager-orcin-ten.vercel.app/)
-
-#### 🌿 [Crop Disease Detection](https://github.com/goutam-dev/crop-disease-detection)
-> CNN-based leaf disease classifier built with Keras + Streamlit
-
-#### 👟 [Urban Footwear](https://github.com/goutam-dev/shoe-web)
-> E-commerce frontend for a shoe brand with persistent cart and animations  
-> [🌐 Live Demo](https://shoe-web-lovat.vercel.app/)
-
----
 
 ### 💻 Tech Stack
 
@@ -85,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=goutam-dev&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goutam-dev&theme=react-dark" alt="activity graph" />
 </p>
 
 ---
